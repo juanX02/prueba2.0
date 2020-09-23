@@ -16,6 +16,8 @@ public class Pruebagh2 {
         System.out.println("hola ");
         int numeroDias = 20;
         JOptionPane.showMessageDialog(null,numeroDias);
+        
+        
     }
     
 }
